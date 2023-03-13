@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Technophile<br>👯 I’m looking to collaborate on anything <br>🤝 Software Development<br>🌱 Cybersecurity<br>💬 Electronics and IoT<br>⚡ Studying Computer Engineering at #JKUAT
+🔭 Technophile<br>💬 Ask me about: <br>🤝 Software Development<br>🌱 Cybersecurity<br>👯 Electronics and IoT<br>⚡ Currently studying Computer Engineering at JKUAT
 
 
 # 💻 Tech Stack:
