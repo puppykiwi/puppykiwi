@@ -3,7 +3,7 @@ Let's talk about: <br>⚒️ Software Development<br>⚔️ Cybersecurity<br>�
 
 
 #  Tech Stack:
-![](https://skillicons.dev/icons?i=c,python,nodejs,cpp,html,css,php,bash,flask,linux,arduino,raspberrypi,markdown,docker,cmake,git)
+![](https://skillicons.dev/icons?i=python,c,cpp,nodejs,html,css,php,flask,markdown,bash,linux,arduino,raspberrypi,docker,git)
 
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puppykiwi&theme=radical&hide_border=false)<br/>
