@@ -3,9 +3,9 @@ Let's talk about: <br>⚒️ Software Development<br>⚔️ Cybersecurity<br>�
 
 
 #  Tech Stack:
-## Languages:
+## Languages
 ![](https://skillicons.dev/icons?i=c,cpp,python,nodejs,html,css,php,markdown,bash)
-## Tools:
+## Tools
 ![](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,nginx,git,docker,vscode,mysql,flask)
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puppykiwi&theme=radical&hide_border=false)<br/>
