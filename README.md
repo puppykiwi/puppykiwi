@@ -8,7 +8,6 @@
 ## Tools
 ![](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,nginx,git,docker,vscode,mysql,flask)
 #  GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=puppykiwi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puppykiwi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 
