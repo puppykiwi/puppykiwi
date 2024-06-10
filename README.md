@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puppykiwi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 
-###  Random Dev Quote
+###  Rand_Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
