@@ -2,7 +2,6 @@
 <br>⚒️ Software Development<br>⚔️ Cybersecurity<br>🤖 Electronics and IoT<br><br> Currently studying Computer Engineering at JKUAT
 
 
-#  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puppykiwi&theme=radical&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puppykiwi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
