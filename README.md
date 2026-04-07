@@ -1,5 +1,5 @@
 #  Technophile
-<br>⚒️ Electronics repair & Hardware design<br>⚔️ Cybersecurity<br>🤖 Software Development<br><br> Currently studying Computer Engineering at JKUAT and working at Techdaily LTD.
+<br>⚒️ Electronics, Prototyping & Hardware design<br>⚔️ Cybersecurity & Firmware Extraction<br>🤖 Software Development & Scripting<br><br> Currently studying Computer Engineering at JKUAT and working at Techlab LTD.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puppykiwi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
